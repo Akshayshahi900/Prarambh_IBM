@@ -1,0 +1,16 @@
+[
+  {
+    "meal": "Grilled Chicken Salad",
+    "calories": 400,
+    "protein": 35,
+    "fat": 10,
+    "carbs": 20
+  },
+  {
+    "meal": "Oats with Fruits",
+    "calories": 300,
+    "protein": 10,
+    "fat": 8,
+    "carbs": 45
+  }
+]
