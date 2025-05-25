@@ -1,0 +1,344 @@
+[
+  {
+    "test_case_number": 1,
+    "input": {
+      "user_type": "pregnant_woman",
+      "age": "22",
+      "weight": "46",
+      "height": "150",
+      "location": "Ballia, Uttar Pradesh",
+      "diet_type": "Vegetarian",
+      "monthly_income": "4200",
+      "food_availability": "dal, roti, spinach, milk, jaggery",
+      "known_health_issues": "anemia"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a pregnant woman in Ballia, Uttar Pradesh:\n\n1. Meal 1:\n   - Name: Dal roti with spinach\n   - Calories: ~600\n   - Protein: ~20g, Carbs: ~100g, Fats: ~15g\n   - Suitable for pregnant woman: Dal is an excellent source of protein and iron, which can help combat anemia. Spinach provides folic acid, essential for fetal development.\n2. Meal 2:\n   - Name: Milk and jaggery\n   - Calories: ~250\n   - Protein: ~10g, Carbs: ~40g, Fats: ~5g\n   - Suitable for pregnant woman: Milk is a great source of calcium, protein, and vitamins, essential for the baby's development. Jaggery is a healthier alternative to sugar, providing iron and other minerals.\n3. Meal 3:\n   - Name: Roti with mixed vegetable subzi (made with seasonal vegetables)\n   - Calories: ~600\n   - Protein: ~15g, Carbs: ~100g, Fats: ~20g\n   - Suitable for pregnant woman: Subzi provides a variety of essential vitamins and minerals from seasonal vegetables. Roti adds fiber, protein, and carbohydrates.\n\nTips:\n\n1. Regularly consume iron-rich foods like dal, spinach, and jaggery to help manage anemia.\n2. Consider taking a prenatal supplement, including folic acid, iron, and calcium, as prescribed by a healthcare professional.\n\nNote: Substitute any unavailable food items with locally available ones of similar nutritional value. Always consult a healthcare professional for personalized advice."
+    }
+  },
+  {
+    "test_case_number": 2,
+    "input": {
+      "user_type": "pregnant_woman",
+      "age": "27",
+      "weight": "58",
+      "height": "157",
+      "location": "Fatehpur, Uttar Pradesh",
+      "diet_type": "Non-Vegetarian",
+      "monthly_income": "5000",
+      "food_availability": "eggs, rice, dal, seasonal vegetables, chicken (weekly)",
+      "known_health_issues": "none"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a pregnant woman in Fatehpur, Uttar Pradesh:\n\n1. Meal 1:\n   - Name: Dal Chawal (Lentils and Rice)\n   - Calories: ~650 calories\n   - Breakdown: 1.5 cups dal (protein 24g, carbs 108g, fat 1g) + 1.5 cups rice (protein 6g, carbs 114g, fat 1g)\n   - Suitable for pregnant woman: High in protein and carbs, which support fetal growth and energy needs.\n2. Meal 2:\n   - Name: Seasonal Vegetable Stir-Fry with Eggs\n   - Calories: ~500 calories\n   - Breakdown: 2 cups seasonal vegetables (protein 6g, carbs 36g, fat 3g) + 2 eggs (protein 12g, carbs 1g, fat 10g)\n   - Suitable for pregnant woman: Provides essential nutrients like vitamin A and choline.\n3. Meal 3:\n   - Name: Chicken and Vegetable Curry with Rice\n   - Calories: ~750 calories\n   - Breakdown: 1 cup chicken (protein 40g, carbs 0g, fat 20g) + 1.5 cups rice (protein 6g, carbs 114g, fat 1g) + 1 cup seasonal vegetables (protein 4g, carbs 24g, fat 0g)\n   - Suitable for pregnant woman: Offers lean protein and iron for fetal development.\n\nAdditional care tips:\n\n1. Eat small, frequent meals to prevent indigestion and maintain energy levels.\n2. Consume at least 2-3 liters of water daily to support increased blood volume and prevent constipation.\n\nNote: If non-vegetarian food is not preferred or unavailable, substitute with plant-based protein sources like lentils, chickpeas, or peas. Include plenty of seasonal fruits, such as mangoes, bananas, and guavas, for added vitamins and fiber."
+    }
+  },
+  {
+    "test_case_number": 3,
+    "input": {
+      "user_type": "pregnant_woman",
+      "age": "19",
+      "weight": "40",
+      "height": "148",
+      "location": "Chitrakoot, Uttar Pradesh",
+      "diet_type": "Vegetarian",
+      "monthly_income": "3000",
+      "food_availability": "potatoes, wheat, milk occasionally",
+      "known_health_issues": "underweight"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a day using local and affordable foods in Chitrakoot, Uttar Pradesh:\n\n1. Meal 1:\n   - Roti (wheat flatbread) with vegetable sabzi (mixed vegetable curry)\n   - Contains approximately 500 calories\n   - Protein: 15g, Carbs: 80g, Fats: 10g\n   - Suitable for pregnant women as it provides a balanced meal with essential nutrients.\n2. Meal 2:\n   - Moong dal (split green gram) khichdi with a side of sautéed spinach\n   - Contains approximately 600 calories\n  "
+    }
+  },
+  {
+    "test_case_number": 4,
+    "input": {
+      "user_type": "pregnant_woman",
+      "age": "30",
+      "weight": "62",
+      "height": "160",
+      "location": "Kaushambi, Uttar Pradesh",
+      "diet_type": "Eggetarian",
+      "monthly_income": "6500",
+      "food_availability": "eggs, curd, rice, mustard leaves, jaggery",
+      "known_health_issues": "gestational diabetes"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a pregnant woman in Kaushambi, Uttar Pradesh:\n\n1. Meal 1:\n   - Name: Rice with Mustard Leaves and Egg\n   - Calories: ~550 calories\n   - Protein/Carbs/Fats: 25g protein, 70g carbs, 15g fats\n   - Suitable for pregnant woman: Mustard leaves are rich in folate, essential for fetal development. Eggs provide high-quality protein and choline, promoting fetal brain development.\n2. Meal 2:\n   - Name: Curd with Boiled Egg and Jaggery\n   - Calories: ~350 calories\n   - Protein/Carbs/Fats: 20g protein, 30g carbs, 10g fats\n   - Suitable for pregnant woman: Curd contains probiotics, improving gut health and immunity. Jaggery helps maintain energy levels and is rich in iron, preventing anemia.\n3. Meal 3:\n   - Name: Rice with Boiled Egg and Curd\n   - Calories: ~500 calories\n   - Protein/Carbs/Fats: 25g protein, 60g carbs, 10g fats\n   - Suitable for pregnant woman: This meal is balanced, providing protein, carbs, and fats for overall growth and development.\n\nAdditional tips:\n\n1. Regularly check blood sugar levels to manage gestational diabetes. Opt for small, frequent meals instead of large ones.\n2. Consume calcium-rich foods, such as ragi (finger millet), to support the baby's bone development and prevent maternal bone loss.\n\nPlease note that these are approximate values and may vary based on portion sizes and specific ingredients. Substitute rice with whole grains like millets for additional fiber and nutrients."
+    }
+  },
+  {
+    "test_case_number": 5,
+    "input": {
+      "user_type": "pregnant_woman",
+      "age": "25",
+      "weight": "50",
+      "height": "152",
+      "location": "Gonda, Uttar Pradesh",
+      "diet_type": "Vegetarian",
+      "monthly_income": "4700",
+      "food_availability": "chapati, dal, bottle gourd, turmeric milk",
+      "known_health_issues": "low hemoglobin"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a pregnant woman in Gonda, Uttar Pradesh:\n\n1. Meal 1:\n   - Chapati (2 pieces) with dal (1 bowl) and bottle gourd sabzi (1 bowl)\n   - Calories: around 650\n   - Protein: 25g, Carbs: 110g, Fats: 10g\n   - Explanation: This meal is high in fiber, vitamins, and minerals from the bottle gourd and dal. It also provides enough protein for fetal growth and development.\n\n2. Meal 2:\n   - Chapati (2 pieces) with mixed vegetable sabzi (1 bowl) and curd (100g)\n   - Calories: around 600\n   - Protein: 20g, Carbs: 100g, Fats: 15g\n   - Explanation: This meal is rich in calcium from curd, promoting bone health for both mother and baby. The mixed vegetables provide various vitamins and minerals.\n\n3. Meal 3:\n   - Chapati (2 pieces) with turmeric milk (200ml)\n   - Calories: around 350\n   - Protein: 8g, Carbs: 60g, Fats: 8g\n   - Explanation: Turmeric milk has anti-inflammatory properties and helps in maintaining a healthy weight. It also provides additional protein and calcium.\n\nHealth Tips:\n1. Include green leafy vegetables, like spinach, in your diet to combat low hemoglobin.\n2. Consume iron-rich foods, like jaggery and sesame seeds, to support blood production.\n\nNote: Substitute chapati with brown rice or millet for variety and additional nutrients. For non-vegetarian options, consider adding eggs for high-quality protein and essential nutrients."
+    }
+  },
+  {
+    "test_case_number": 6,
+    "input": {
+      "user_type": "pregnant_woman",
+      "age": "29",
+      "weight": "60",
+      "height": "161",
+      "location": "Sitapur, Uttar Pradesh",
+      "diet_type": "Vegan",
+      "monthly_income": "5300",
+      "food_availability": "lentils, rice, soy chunks, veggies",
+      "known_health_issues": "mild edema"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a pregnant woman in Sitapur, Uttar Pradesh:\n\n1. Meal 1:\n   - Name: Soy Chunks and Vegetable Curry with Rice\n   - Approximate calories: 650 calories\n   - Protein / Carbs / Fats breakdown: 30g protein, 100g carbs, 15g fats\n   - Why it's suitable: This meal is rich in protein, iron, and calcium, which support fetal growth and development.\n\n2. Meal 2:\n   - Name: Lentil Soup (Dal) with Chapatis\n   - Approximate calories: 500 calories\n   - Protein / Carbs / Fats breakdown: 25g protein, 80g carbs, 5g fats\n   - Why it's suitable: Lentils are a great source of folate, essential for the baby's neural tube development.\n\n3. Meal 3:\n   - Name: Soy Chunks and Vegetable Stir Fry\n   - Approximate calories: 500 calories\n   - Protein / Carbs / Fats breakdown: 30g protein, 50g carbs, 20g fats\n   - Why it's suitable: This meal provides a variety of essential vitamins and minerals, promoting overall health.\n\nAdditional care tips:\n\n1. Mild edema can be managed by reducing salt intake and drinking plenty of fluids. Limit pickles and chutneys, which are high in salt.\n2. Take iron and calcium supplements, as recommended by a healthcare provider, since vegan options may not provide enough.\n\nSubstitutes: If soy chunks are not available, use chickpeas or other lentils. For veggies, use locally available options such as spinach, okra, or cauliflower."
+    }
+  },
+  {
+    "test_case_number": 7,
+    "input": {
+      "user_type": "pregnant_woman",
+      "age": "24",
+      "weight": "55",
+      "height": "155",
+      "location": "Basti, Uttar Pradesh",
+      "diet_type": "Vegetarian",
+      "monthly_income": "3900",
+      "food_availability": "wheat, bottle gourd, dal, spinach",
+      "known_health_issues": "anemia"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a pregnant woman in Basti, Uttar Pradesh:\n\n1. Meal 1:\n   - Name: Whole wheat roti with dal and spinach\n   - Calories: ~600\n   - Protein/Carbs/Fats: 25g protein, 100g carbs, 10g fats\n   - Suitable for pregnant woman: Whole wheat is a good source of fiber and helps prevent constipation, while dal provides protein for fetal growth. Spinach is rich in iron, helping to combat anemia.\n\n2. Meal 2:\n   - Name: Bottle gourd sabzi with whole wheat roti\n   - Calories: ~500\n   - Protein/Carbs/Fats: 15g protein, 80g carbs, 5g fats\n   - Suitable for pregnant woman: Bottle gourd is high in water content and helps prevent dehydration, while being low in calories. It also contains essential vitamins and minerals.\n\n3. Meal 3:\n   - Name: Suji (semolina) khichdi with a side of yogurt\n   - Calories: ~650\n   - Protein/Carbs/Fats: 20g protein, 100g carbs, 15g fats\n   - Suitable for pregnant woman: Suji is a good source of energy, and the khichdi aids digestion. Yogurt provides probiotics, which can help with gut health and immunity.\n\nAdditional Tips:\n\n1. Include vitamin C-rich foods like amla or guava to enhance iron absorption and help with anemia.\n2. Consider taking iron and folic acid supplements as prescribed by a healthcare professional.\n\nNote: Substitute cow's milk or plant-based milk for yogurt if lactose intolerant."
+    }
+  },
+  {
+    "test_case_number": 8,
+    "input": {
+      "user_type": "pregnant_woman",
+      "age": "21",
+      "weight": "44",
+      "height": "149",
+      "location": "Deoria, Uttar Pradesh",
+      "diet_type": "Non-Vegetarian",
+      "monthly_income": "4100",
+      "food_availability": "fish (once/week), rice, lentils, peas",
+      "known_health_issues": "underweight"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Sure, I'd be happy to help! Here are three simple, healthy meals for a pregnant woman in Deoria, Uttar Pradesh:\n\n1. Meal 1:\n   - Name: Whole grain roti with lentil soup (dal) and sautéed vegetables\n   - Approximate calories: 600\n   - Protein/Carbs/Fats breakdown: 25g protein, 90g carbs, 10g fats\n   - Why it's suitable: This meal is high in fiber, protein, and iron, which are essential for a healthy pregnancy.\n2. Meal 2:\n   - Name: Steamed rice with fish curry and mixed vegetable salad\n   - Approximate calories: 700\n   - Protein/Carbs/Fats breakdown: 40g protein, 80g carbs, 20g fats\n   - Why it's suitable: Fish is an excellent source of omega-3 fatty acids, which support fetal brain development.\n3. Meal 3:\n   - Name: Lentil and vegetable stir-fry with whole grain roti\n   - Approximate calories: 600\n   - Protein/Carbs/Fats breakdown: 25g protein, 90g carbs, 10g fats\n   - Why it's suitable: This meal is packed with vitamins, minerals, and protein, which help to support a healthy pregnancy.\n\nHere are two additional care or health tips:\n\n1. Eat small, frequent meals throughout the day to prevent low blood sugar levels and ensure a steady supply of nutrients for the developing fetus.\n2. Drink plenty of water and include plenty of fruits and vegetables in your diet to prevent constipation, which is a common complaint during pregnancy.\n\nPlease note that these are general recommendations and individual nutritional needs may vary. It is best to consult with a local healthcare provider for personalized advice.\n\nTo make these meals more affordable, consider buying grains, lentils, and vegetables in bulk, and choose locally sourced and seasonal produce whenever possible. If fish is not available or affordable, consider alternative protein sources like chicken, eggs, or dairy products."
+    }
+  },
+  {
+    "test_case_number": 9,
+    "input": {
+      "user_type": "pregnant_woman",
+      "age": "26",
+      "weight": "52",
+      "height": "158",
+      "location": "Mau, Uttar Pradesh",
+      "diet_type": "Vegetarian",
+      "monthly_income": "6000",
+      "food_availability": "milk, poha, rice, dal, jaggery",
+      "known_health_issues": "mild malnutrition"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a day using local, affordable foods in Mau, Uttar Pradesh:\n\n1. Meal 1:\n   - Name: Dal Chawal (lentils and rice)\n   - Calories: ~650 calories\n   - Breakdown: 120g carbs, 30g protein, 4g fats\n   - Suitable for pregnant woman: High in protein and carbs, which are essential for fetal growth and development.\n2. Meal 2:\n   - Name: Poha with milk and jaggery\n   - Calories: ~550 calories\n   - Breakdown: 105g carbs, 12g protein, 10g fats\n   - Suitable for pregnant woman: A light meal with a good balance of carbs, protein, and fats to meet daily energy needs.\n3. Meal 3:\n   - Name: Vegetable and dal soup with rice\n   - Calories: ~700 calories\n   - Breakdown: 120g carbs, 25g protein, 3g fats\n   - Suitable for pregnant woman: Rich in protein and vitamins from the vegetables, supporting the woman's increased nutritional needs.\n\nAdditional care or health tips:\n\n1. Consume at least 2-3 liters of water daily to prevent dehydration and constipation.\n2. Take iron, calcium, and folic acid supplements as prescribed by a healthcare professional to combat mild malnutrition and support a healthy pregnancy.\n\nCulturally sensitive substitutes:\n\n1. Substitute dal with chickpeas or rajma (kidney beans) for variety.\n2. Add leafy greens (like spinach or mustard greens) to the meals for extra nutrition."
+    }
+  },
+  {
+    "test_case_number": 10,
+    "input": {
+      "user_type": "pregnant_woman",
+      "age": "20",
+      "weight": "43",
+      "height": "147",
+      "location": "Sultanpur, Uttar Pradesh",
+      "diet_type": "Eggetarian",
+      "monthly_income": "3500",
+      "food_availability": "eggs, mustard leaves, khichdi, curd",
+      "known_health_issues": "underweight"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a pregnant woman in Sultanpur, Uttar Pradesh:\n\n1. Meal 1: Anda-saag paratha with curd\n\t* Calories: ~550\n\t* Protein: 19g, Carbs: 65g, Fats: 22g\n\t* Suitable for pregnant woman as it provides a good amount of protein, calcium, and iron.\n2. Meal 2: Khichdi with mustard leaves\n\t* Calories: ~600\n\t* Protein: 15g, Carbs: 100g, Fats: 10g\n\t* Suitable for pregnant woman as it is easy to digest and rich in fiber, vitamins, and minerals.\n3. Meal 3: Boiled eggs with roasted khichdi\n\t* Calories: ~550\n\t* Protein: 25g, Carbs: 65g, Fats: 20g\n\t* Suitable for pregnant woman as eggs are an excellent source of high-quality protein, vitamins, and minerals.\n\nAdditional care/health tips:\n\n1. Eat small, frequent meals throughout the day to ensure adequate nutrition and to prevent nausea and heartburn.\n2. Drink at least 8-10 glasses of water a day to stay hydrated and support healthy digestion.\n\nNote: If eggs are not available, lentils or chickpeas can be used as a substitute in the meals to provide protein."
+    }
+  },
+  {
+    "test_case_number": 11,
+    "input": {
+      "user_type": "malnourished_child",
+      "age": "3",
+      "weight": "10",
+      "height": "85",
+      "location": "Ghazipur, Uttar Pradesh",
+      "diet_type": "Vegetarian",
+      "monthly_income": "3200",
+      "food_availability": "dal, roti, milk, banana",
+      "known_health_issues": "moderate wasting"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " I'm here to help! Here are some nutritious meal ideas for a malnourished 3-year-old child in Ghazipur, Uttar Pradesh, using locally available and affordable foods:\n\n1. Meal 1: Dalia Khichdi\n   - Approximately 400 calories\n   - Protein: 12g, Carbs: 60g, Fats: 8g\n   - Dalia (broken wheat) is a good source of energy and fiber, while moong dal (split green gram) provides protein for growth. Ghee (clarified butter) adds healthy fats for brain development.\n\n2. Meal 2: Roti with Vegetable Sabzi & Milk\n   - Approximately 450 calories\n   - Protein: 15g, Carbs: 60g, Fats: 15g\n   - Roti (whole wheat flatbread) offers complex carbs and fiber, while sabzi (vegetable curry) made from carrots, potatoes, and peas provides vitamins and minerals. Milk is an excellent source of calcium, protein, and energy.\n\n3. Meal 3: Banana Lassi with Roti\n   - Approximately 350 calories\n   - Protein: 8g, Carbs: 60g, Fats: 8g\n   - Banana lassi (yogurt-based drink) helps maintain hydration and provides electrolytes, potassium, and energy. Roti adds complex carbs and fiber.\n\nHealth Tips:\n1. Exclusive breastfeeding for the first six months and continued breastfeeding along with complementary foods afterwards is recommended.\n2. Encourage frequent small meals to meet energy needs and promote growth.\n\nCulturally Sensitive Substitutes:\n1. For dalia, you can use rice or ragi (finger millet) if preferred.\n2. In case of lactose intolerance, use soy milk or other plant-based milk alternatives."
+    }
+  },
+  {
+    "test_case_number": 12,
+    "input": {
+      "user_type": "malnourished_child",
+      "age": "5",
+      "weight": "12.5",
+      "height": "95",
+      "location": "Bahraich, Uttar Pradesh",
+      "diet_type": "Vegetarian",
+      "monthly_income": "3600",
+      "food_availability": "rice, peas, curd, soybeans",
+      "known_health_issues": "stunted growth"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a day using local and affordable foods:\n\n1. Meal 1:\n   - Name: Soybean and Peas Porridge\n   - Approximate calories: 400-500\n   - Protein/Carbs/Fats breakdown: 20g protein, 60g carbs, 10g fats\n   - Why it's suitable for malnourished child: Soybeans are a great source of protein, while peas provide necessary carbohydrates and fiber. This meal is easy to digest and helps with weight gain.\n\n2. Meal 2:\n   - Name: Rice and Curd with Vegetables\n   - Approximate calories: 450-550\n   - Protein/Carbs/Fats breakdown: 15g protein, 80g carbs, 10g fats\n   - Why it's suitable for malnourished child: Rice provides energy-dense carbohydrates, while curd is an excellent source of protein and probiotics for gut health. Adding vegetables increases fiber and nutrient intake.\n\n3. Meal 3:\n   - Name: Soybean and Spinach Pancakes\n   - Approximate calories: 350-450\n   - Protein/Carbs/Fats breakdown: 15g protein, 45g carbs, 10g fats\n   - Why it's suitable for malnourished child: Soybeans and spinach offer a complete protein source and essential vitamins and minerals for growth. These pancakes are a fun way to encourage a child to eat nutritious foods.\n\nAdditional health tips:\n\n1. Encourage small, frequent meals throughout the day instead of three large meals. This can help improve nutrient absorption and promote weight gain.\n2. Provide clean drinking water and ensure handwashing before meals to prevent infections and promote overall health.\n\nSubstitutes: If soybeans are not available, use chickpeas or lentils as protein alternatives. For those who prefer a non-dairy option, substitute curd with coconut milk or a plant-based yogurt."
+    }
+  },
+  {
+    "test_case_number": 13,
+    "input": {
+      "user_type": "malnourished_child",
+      "age": "2.5",
+      "weight": "8.4",
+      "height": "76",
+      "location": "Shrawasti, Uttar Pradesh",
+      "diet_type": "Vegetarian",
+      "monthly_income": "3000",
+      "food_availability": "chapati, dal water, mashed potato",
+      "known_health_issues": "severe wasting"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " I'm here to help! Here are three simple, healthy meals for your child using local, affordable foods:\n\n1. Meal: Chapati with Dal and Mashed Potato\n   - Calories: ~600\n   - Protein: 20g (1/3 from dal, 1/3 from chapati, 1/3 from potato)\n   - Carbs: 110g (mostly from chapati and potato)\n   - Fats: 8g (mostly from chapati)\n   - Suitable for malnourished child: Dal is a good source of protein and iron, while mashed potato provides energy and some vitamins. Chapati contains fiber, B vitamins, and healthy fats.\n\n2. Meal: Suji (Semolina) Khichdi\n   - Calories: ~550\n   - Protein: 13g (from suji, dal, and ghee)\n   - Carbs: 95g (mostly from suji and dal)\n   - Fats: 16g (mostly from ghee)\n   - Suitable for malnourished child: Suji is easily digestible and rich in protein, while dal adds more protein and iron. Ghee provides healthy fats and helps with calorie intake.\n\n3. Meal: Moong Sprouts Salad\n   - Calories: ~400\n   - Protein: 15g (mostly from sprouts)\n   - Carbs: 50g (mostly from sprouts and tomato)\n   - Fats: 15g (mostly from peanuts and oil)\n   - Suitable for malnourished child: Moong sprouts are packed with protein, vitamins, and minerals. Peanuts and oil add healthy fats and help with calorie intake.\n\nAdditional tips:\n1. Increase feeding frequency: Offer smaller, frequent meals throughout the day to help increase calorie intake.\n2. Fortify foods: Add ground nuts, jaggery, or fortified oil to meals for extra calories, protein, and vitamins.\n\nPlease note that these meal suggestions are not a substitute for medical advice. Consult a healthcare professional regarding your child's specific needs."
+    }
+  },
+  {
+    "test_case_number": 14,
+    "input": {
+      "user_type": "malnourished_child",
+      "age": "4",
+      "weight": "11",
+      "height": "90",
+      "location": "Lalitpur, Uttar Pradesh",
+      "diet_type": "Vegetarian",
+      "monthly_income": "4000",
+      "food_availability": "milk, poha, chana, jaggery",
+      "known_health_issues": "underweight"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a malnourished child in Lalitpur, Uttar Pradesh:\n\n1. Meal: Poha with Peanuts and Jaggery\n\t* Calories: 450-500\n\t* Protein: 12g, Carbs: 70g, Fats: 16g\n\t* Suitable for malnourished child: Poha is a light, easy-to-digest food that provides energy and essential nutrients. Peanuts add protein, healthy fats, and additional calories. Jaggery is a natural sweetener that provides minerals and helps in weight gain.\n2. Meal: Chana (Chickpea) Curry with Milk and Roti\n\t* Calories: 550-600\n\t* Protein: 20g, Carbs: 80g, Fats: 18g\n\t* Suitable for malnourished child: Chana curry is rich in protein, fiber, and vitamins. Milk adds calcium, proteins, and calories. Roti provides carbohydrates, fiber, and essential nutrients.\n3. Meal: Moong Dal Khichdi with Milk and Banana\n\t* Calories: 500-550\n\t* Protein: 16g, Carbs: 85g, Fats: 12g\n\t* Suitable for malnourished child: Moong dal khichdi is easy to digest and high in protein, carbs, and fiber. Milk adds calcium and proteins, while banana provides essential vitamins and minerals and contributes to weight gain.\n\nCare or Health Tips:\n\n1. Encourage frequent, small meals: Smaller, more frequent meals help increase overall caloric intake and support weight gain.\n2. Add healthy fats: Incorporate healthy fats like ghee, groundnut oil, or mustard oil in meals to increase calorie density and aid in weight gain.\n\nSubstitutes:\n\n* Rice or bajra roti can replace poha for variation.\n* Soybean or lentils can be added for additional protein if chana is not available.\n* Sweet potato or carrots can be added to khichdi or curry for extra nutrients and calories."
+    }
+  },
+  {
+    "test_case_number": 15,
+    "input": {
+      "user_type": "malnourished_child",
+      "age": "3.5",
+      "weight": "10.8",
+      "height": "89",
+      "location": "Ambedkar Nagar, Uttar Pradesh",
+      "diet_type": "Vegetarian",
+      "monthly_income": "4200",
+      "food_availability": "roti, ghee, banana, boiled peas",
+      "known_health_issues": "mild malnutrition"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a malnourished child in Ambedkar Nagar, Uttar Pradesh:\n\n1. Meal: Roti with ghee and boiled peas\nCalories: 550 calories\nProtein: 15g, Carbs: 70g, Fats: 20g\nWhy it's suitable: Roti and ghee provide healthy fats and carbohydrates, while boiled peas are a good source of protein and fiber. This meal is also easy to digest and can help the child gain weight.\n\n2. Meal: Banana porridge with ghee\nCalories: 350 calories\nProtein: 5g, Carbs: 60g, Fats: 10g\nWhy it's suitable: Banana is rich in potassium and carbohydrates, which can provide quick energy. Adding ghee can increase the calorie content and provide healthy fats. This meal is also easy to prepare and can be given to the child in case of poor appetite.\n\n3. Meal: Lentil soup with roti\nCalories: 650 calories\nProtein: 25g, Carbs: 90g, Fats: 15g\nWhy it's suitable: Lentils are an excellent source of protein and can help the child build muscle mass. Roti provides carbohydrates and fiber. This meal is also easy to digest and can be given to the child in case of mild malnutrition.\n\nAdditional care/health tips:\n\n1. Encourage the child to eat small, frequent meals throughout the day instead of three large meals. This can help increase the child's calorie intake and promote weight gain.\n2. Ensure the child has access to clean drinking water to prevent dehydration and promote healthy digestion.\n\nNote: All the suggested meals are vegetarian and can be easily prepared using locally available foods. If banana or peas are not available, they can be substituted with other seasonal fruits or vegetables."
+    }
+  },
+  {
+    "test_case_number": 16,
+    "input": {
+      "user_type": "newborn",
+      "age": "0.5",
+      "weight": "4.8",
+      "height": "58",
+      "location": "Siddharthnagar, Uttar Pradesh",
+      "diet_type": "Breastfeeding",
+      "monthly_income": "5000",
+      "food_availability": "mother eats: rice, dal, milk, green vegetables",
+      "known_health_issues": "none"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a newborn in Siddharthnagar, Uttar Pradesh:\n\n1. Meal: Breastmilk and Dalia (broken wheat)\n\t- Calories: ~550\n\t- Protein: 12g, Carbs: 100g, Fats: 8g\n\t- Suitable for newborn as it is easy to digest and provides necessary nutrients.\n2. Meal: Breastmilk and steamed rice with mixed vegetables\n\t- Calories: ~600\n\t- Protein: 12g, Carbs: 110g, Fats: 9g\n\t- Suitable for newborn as it contains a variety of essential nutrients and is easily digestible.\n3. Meal: Breastmilk and milk-based kheer (porridge) with jaggery and dry fruits\n\t- Calories: ~500\n\t- Protein: 10g, Carbs: 80g, Fats: 15g\n\t- Suitable for newborn as it provides necessary fats and energy for growth and development.\n\nHealth Tips:\n\n1. Exclusive breastfeeding is recommended until 6 months of age, as it provides all the necessary nutrients for optimal growth and development.\n2. Keep the surroundings clean and hygienic to prevent infections and promote healthy growth.\n\nSubstitutes: If breastfeeding is not possible, use locally available and affordable formula milk. For vegetable mix, use locally available and seasonal greens. For dry fruits, use what's available and affordable, like raisins or dates. Adjust the quantities according to the baby's age, weight, and tolerance."
+    }
+  },
+  {
+    "test_case_number": 17,
+    "input": {
+      "user_type": "newborn",
+      "age": "0.8",
+      "weight": "5.1",
+      "height": "61",
+      "location": "Pilibhit, Uttar Pradesh",
+      "diet_type": "Breastfeeding",
+      "monthly_income": "3700",
+      "food_availability": "mother eats: roti, milk, dal, spinach",
+      "known_health_issues": "mild diarrhea"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a newborn in Pilibhit, Uttar Pradesh:\n\n1. Meal: Breast milk and roti\n* Calories: ~150-200 (from breast milk, varies based on mother's diet)\n* Protein / Carbs / Fats: 2g / 20-30g / 5g (from breast milk, approximate values)\n* Suitable for newborn: Breast milk is the best source of nutrition for newborns, providing essential nutrients and antibodies. Roti, made from whole grains, adds fiber and some additional nutrients.\n\n2. Meal: Breast milk and spinach\n* Calories: ~150-200 (from breast milk, varies based on mother's diet)\n* Protein / Carbs / Fats: 2g / 5-10g / 5g (from breast milk, approximate values)\n* Suitable for newborn: Spinach is rich in iron, calcium, and vitamins, supporting the newborn's growth.\n\n3. Meal: Breast milk and diluted dal water\n* Calories: ~150-200 (from breast milk, varies based on mother's diet)\n* Protein / Carbs / Fats: 2g / 5-10g / 1g (from dal water, approximate values)\n* Suitable for newborn: Dal water, made from lentils, provides additional proteins and nutrients for the newborn. Ensure it's well-cooked and diluted to prevent gastric issues.\n\nHealth tips:\n\n1. Continue breastfeeding and maintain hydration to help manage diarrhea.\n2. Monitor the newborn's weight regularly and consult a healthcare worker if there are concerns about weight gain or diarrhea persisting.\n\nCulturally sensitive substitutes: Replace roti with rice or millet-based flatbreads if preferred. For non-vegetarian families, add boiled and shredded chicken or fish to dal water for added proteins. However, prioritize breast milk as the primary source of nutrition for the newborn."
+    }
+  },
+  {
+    "test_case_number": 18,
+    "input": {
+      "user_type": "newborn",
+      "age": "0.9",
+      "weight": "5.3",
+      "height": "62",
+      "location": "Sant Kabir Nagar, Uttar Pradesh",
+      "diet_type": "Breastfeeding",
+      "monthly_income": "3400",
+      "food_availability": "mother eats: chapati, khichdi, jaggery, boiled eggs",
+      "known_health_issues": "none"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a newborn in Sant Kabir Nagar, Uttar Pradesh:\n\n1. Meal: Breastmilk and Chapati\n* Calories: ~500-600 (from breastmilk)\n* Protein/Carbs/Fats: Breastmilk contains a balance of nutrients, with protein, fat, and lactose as the primary components.\n* Suitable for newborn: Breastmilk is the perfect food for newborns, providing all the necessary nutrients for growth and development. Chapati, made from whole wheat flour, is a good source of fiber and can help prevent constipation.\n1. Meal: Breastmilk and Khichdi\n* Calories: ~500-600 (from breastmilk), ~150 (from khichdi)\n* Protein/Carbs/Fats: Khichdi contains protein (from lentils and rice), carbohydrates (from rice and lentils), and a small amount of fat (from ghee or oil used in cooking).\n* Suitable for newborn: Khichdi is easy to digest and provides additional energy and nutrients to complement breastmilk.\n1. Meal: Breastmilk and Jaggery-Boiled Egg\n* Calories: ~500-600 (from breastmilk), ~150 (from egg and jaggery)\n* Protein/Carbs/Fats: Boiled eggs are an excellent source of protein and healthy fats, while jaggery provides carbohydrates and essential minerals.\n* Suitable for newborn: The protein and healthy fats in eggs support brain development, while jaggery can help maintain energy levels.\n\nAdditional care or health tips:\n\n1. Exclusive breastfeeding is recommended for the first six months of life. Continue offering breastmilk even after introducing solid foods, as it remains an important source of nutrition.\n2. Ensure proper handwashing and food hygiene practices to reduce the risk of infections.\n\nThese suggestions are culturally sensitive and use locally available, affordable foods. Substitutes could include using whole milk or dalia (broken wheat) instead of breastmilk for older infants who have started consuming complementary foods."
+    }
+  },
+  {
+    "test_case_number": 19,
+    "input": {
+      "user_type": "newborn",
+      "age": "1.0",
+      "weight": "5.5",
+      "height": "63",
+      "location": "Balrampur, Uttar Pradesh",
+      "diet_type": "Breastfeeding + Cerelac",
+      "monthly_income": "3800",
+      "food_availability": "mother eats: wheat porridge, milk, lentils",
+      "known_health_issues": "low birth weight"
+    },
+    "output": {
+      "success": true,
+      "mealPlan": " Here are three simple, healthy meals for a newborn in Balrampur, Uttar Pradesh:\n\n1. Meal: Breastmilk and Wheat Porridge\n   - Calories: ~550 (breastmilk: ~250, wheat porridge: ~300)\n   - Protein / Carbs / Fats: 10g / 85g / 12g (breastmilk), 9g / 60g / 3g (wheat porridge)\n   - Suitable for newborn: Breastmilk is the best source of nutrition for newborns. Wheat porridge made with water and a little jaggery can provide additional nutrients, like iron and energy.\n\n2. Meal: Cerelac and Milk\n   - Calories: ~350 (Cerelac: ~200, milk: ~150)\n   - Protein / Carbs / Fats: 9g / 50g / 5g (Cerelac), 5g / 10g / 5g (milk)\n   - Suitable for newborn: Cerelac is a nutritious complementary food for newborns. Adding milk increases the energy density and provides additional protein.\n\n3. Meal: Lentil Soup (dal) and Rice\n   - Calories: ~450 (lentil soup: ~300, rice: ~150)\n   - Protein / Carbs / Fats: 20g / 60g / 3g (lentil soup), 3g / 50g / 0.5g (rice)\n   - Suitable for newborn: Lentils are an excellent source of protein and iron. Adding water while cooking makes it easier for newborns to digest.\n\nHealth Tips:\n\n1. Exclusive breastfeeding for the first 6 months is recommended for optimal growth and development.\n2. Monitor the newborn's weight regularly and consult with a local Anganwadi worker or ASHA if there are concerns about growth or health.\n\nCulturally Sensitive Substitutes:\n\n1. Substitute wheat porridge with rice porridge or ragi porridge, if preferred.\n2. Replace lentil soup with chickpea or vegetable curry if lentils are not preferred."
+    }
+  }
+]

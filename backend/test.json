@@ -1,0 +1,213 @@
+[
+  {
+    "user_type": "pregnant_woman",
+    "age": "22",
+    "weight": "46",
+    "height": "150",
+    "location": "Ballia, Uttar Pradesh",
+    "diet_type": "Vegetarian",
+    "monthly_income": "4200",
+    "food_availability": "dal, roti, spinach, milk, jaggery",
+    "known_health_issues": "anemia"
+  },
+  {
+    "user_type": "pregnant_woman",
+    "age": "27",
+    "weight": "58",
+    "height": "157",
+    "location": "Fatehpur, Uttar Pradesh",
+    "diet_type": "Non-Vegetarian",
+    "monthly_income": "5000",
+    "food_availability": "eggs, rice, dal, seasonal vegetables, chicken (weekly)",
+    "known_health_issues": "none"
+  },
+  {
+    "user_type": "pregnant_woman",
+    "age": "19",
+    "weight": "40",
+    "height": "148",
+    "location": "Chitrakoot, Uttar Pradesh",
+    "diet_type": "Vegetarian",
+    "monthly_income": "3000",
+    "food_availability": "potatoes, wheat, milk occasionally",
+    "known_health_issues": "underweight"
+  },
+  {
+    "user_type": "pregnant_woman",
+    "age": "30",
+    "weight": "62",
+    "height": "160",
+    "location": "Kaushambi, Uttar Pradesh",
+    "diet_type": "Eggetarian",
+    "monthly_income": "6500",
+    "food_availability": "eggs, curd, rice, mustard leaves, jaggery",
+    "known_health_issues": "gestational diabetes"
+  },
+  {
+    "user_type": "pregnant_woman",
+    "age": "25",
+    "weight": "50",
+    "height": "152",
+    "location": "Gonda, Uttar Pradesh",
+    "diet_type": "Vegetarian",
+    "monthly_income": "4700",
+    "food_availability": "chapati, dal, bottle gourd, turmeric milk",
+    "known_health_issues": "low hemoglobin"
+  },
+  {
+    "user_type": "pregnant_woman",
+    "age": "29",
+    "weight": "60",
+    "height": "161",
+    "location": "Sitapur, Uttar Pradesh",
+    "diet_type": "Vegan",
+    "monthly_income": "5300",
+    "food_availability": "lentils, rice, soy chunks, veggies",
+    "known_health_issues": "mild edema"
+  },
+  {
+    "user_type": "pregnant_woman",
+    "age": "24",
+    "weight": "55",
+    "height": "155",
+    "location": "Basti, Uttar Pradesh",
+    "diet_type": "Vegetarian",
+    "monthly_income": "3900",
+    "food_availability": "wheat, bottle gourd, dal, spinach",
+    "known_health_issues": "anemia"
+  },
+  {
+    "user_type": "pregnant_woman",
+    "age": "21",
+    "weight": "44",
+    "height": "149",
+    "location": "Deoria, Uttar Pradesh",
+    "diet_type": "Non-Vegetarian",
+    "monthly_income": "4100",
+    "food_availability": "fish (once/week), rice, lentils, peas",
+    "known_health_issues": "underweight"
+  },
+  {
+    "user_type": "pregnant_woman",
+    "age": "26",
+    "weight": "52",
+    "height": "158",
+    "location": "Mau, Uttar Pradesh",
+    "diet_type": "Vegetarian",
+    "monthly_income": "6000",
+    "food_availability": "milk, poha, rice, dal, jaggery",
+    "known_health_issues": "mild malnutrition"
+  },
+  {
+    "user_type": "pregnant_woman",
+    "age": "20",
+    "weight": "43",
+    "height": "147",
+    "location": "Sultanpur, Uttar Pradesh",
+    "diet_type": "Eggetarian",
+    "monthly_income": "3500",
+    "food_availability": "eggs, mustard leaves, khichdi, curd",
+    "known_health_issues": "underweight"
+  },
+
+  {
+    "user_type": "malnourished_child",
+    "age": "3",
+    "weight": "10",
+    "height": "85",
+    "location": "Ghazipur, Uttar Pradesh",
+    "diet_type": "Vegetarian",
+    "monthly_income": "3200",
+    "food_availability": "dal, roti, milk, banana",
+    "known_health_issues": "moderate wasting"
+  },
+  {
+    "user_type": "malnourished_child",
+    "age": "5",
+    "weight": "12.5",
+    "height": "95",
+    "location": "Bahraich, Uttar Pradesh",
+    "diet_type": "Vegetarian",
+    "monthly_income": "3600",
+    "food_availability": "rice, peas, curd, soybeans",
+    "known_health_issues": "stunted growth"
+  },
+  {
+    "user_type": "malnourished_child",
+    "age": "2.5",
+    "weight": "8.4",
+    "height": "76",
+    "location": "Shrawasti, Uttar Pradesh",
+    "diet_type": "Vegetarian",
+    "monthly_income": "3000",
+    "food_availability": "chapati, dal water, mashed potato",
+    "known_health_issues": "severe wasting"
+  },
+  {
+    "user_type": "malnourished_child",
+    "age": "4",
+    "weight": "11",
+    "height": "90",
+    "location": "Lalitpur, Uttar Pradesh",
+    "diet_type": "Vegetarian",
+    "monthly_income": "4000",
+    "food_availability": "milk, poha, chana, jaggery",
+    "known_health_issues": "underweight"
+  },
+  {
+    "user_type": "malnourished_child",
+    "age": "3.5",
+    "weight": "10.8",
+    "height": "89",
+    "location": "Ambedkar Nagar, Uttar Pradesh",
+    "diet_type": "Vegetarian",
+    "monthly_income": "4200",
+    "food_availability": "roti, ghee, banana, boiled peas",
+    "known_health_issues": "mild malnutrition"
+  },
+
+  {
+    "user_type": "newborn",
+    "age": "0.5",
+    "weight": "4.8",
+    "height": "58",
+    "location": "Siddharthnagar, Uttar Pradesh",
+    "diet_type": "Breastfeeding",
+    "monthly_income": "5000",
+    "food_availability": "mother eats: rice, dal, milk, green vegetables",
+    "known_health_issues": "none"
+  },
+  {
+    "user_type": "newborn",
+    "age": "0.8",
+    "weight": "5.1",
+    "height": "61",
+    "location": "Pilibhit, Uttar Pradesh",
+    "diet_type": "Breastfeeding",
+    "monthly_income": "3700",
+    "food_availability": "mother eats: roti, milk, dal, spinach",
+    "known_health_issues": "mild diarrhea"
+  },
+  {
+    "user_type": "newborn",
+    "age": "0.9",
+    "weight": "5.3",
+    "height": "62",
+    "location": "Sant Kabir Nagar, Uttar Pradesh",
+    "diet_type": "Breastfeeding",
+    "monthly_income": "3400",
+    "food_availability": "mother eats: chapati, khichdi, jaggery, boiled eggs",
+    "known_health_issues": "none"
+  },
+  {
+    "user_type": "newborn",
+    "age": "1.0",
+    "weight": "5.5",
+    "height": "63",
+    "location": "Balrampur, Uttar Pradesh",
+    "diet_type": "Breastfeeding + Cerelac",
+    "monthly_income": "3800",
+    "food_availability": "mother eats: wheat porridge, milk, lentils",
+    "known_health_issues": "low birth weight"
+  }
+]
