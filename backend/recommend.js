@@ -6,7 +6,7 @@ require('dotenv').config();
 const model = new ChatTogetherAI({
   apiKey: process.env.TOGETHER_API_KEY,
   modelName: "mistralai/Mixtral-8x7B-Instruct-v0.1",
-  temperature: 0.7,
+  temperature: 0.2,
   maxTokens: 800,
 });
 
