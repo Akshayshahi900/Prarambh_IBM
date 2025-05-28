@@ -1,0 +1,17 @@
+# Node modules (for both frontend and backend)
+**/node_modules
+
+# Build outputs
+**/.next
+**/dist
+
+# Environment variables
+/backend/.env
+/frontend/.env
+
+# OS files
+.DS_Store
+
+# Logs
+**/*.log
+/backend/.env
